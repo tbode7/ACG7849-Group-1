@@ -5,8 +5,6 @@
 Zachary Wilkerson, Tara Bode, Hankun Li
 
 ___
-___
-___
 
 #### SPOTIFY
 ##### Some things we want to know:
@@ -32,8 +30,6 @@ Blinding Lights 	 - 	 134 occurances
 The Business 	 - 	 134 occurances
 DÁKITI 	 - 	 134 occurances
 ```
-___
-___
 ___
 
 #### FANDANGO
