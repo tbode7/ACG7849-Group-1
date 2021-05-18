@@ -13,3 +13,4 @@ Zachary Wilkerson, Tara Bode, Hankun Li
 ### Some things we want to know:
 - Of the Movies Now Playing, how highly rated were they by critics and audience members?
 - Of the reviews from audience members, how many occurrences of keywords are there of each review and to what extent (i.e. extra positive vs. positive)?
+
