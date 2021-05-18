@@ -38,7 +38,6 @@ ___
 - Of the reviews from audience members, how many occurrences of keywords are there of each review and to what extent (i.e. extra positive vs. positive)?
 
 `Results:`
-```
 Movie Name|Critic Rating|Audience Rating|Number of Positive Reviews|Number of Extra Positive Reviews|Number of Negative Reviews|Number of Extra Negative Reviews
 ---|---|---|---|---|---|---
 Spiral: SAW (2021)|37%|75%|8|3|1|1
@@ -91,5 +90,4 @@ The New Mutants|35%|56%|9|0|4|1
 Brahms: The Boy II|10%|44%|5|0|2|1
 West Side Story|N/A|N/A|-|-|-|-
 Together Together (2021)|91%|77%|7|0|1|0
-```
 
