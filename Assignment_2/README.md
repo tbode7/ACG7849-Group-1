@@ -15,20 +15,20 @@ ___
 ```
 [Top 5 Artists]
 
-Justin Bieber 	 - 	 749 occurances
-Juice WRLD 	 - 	 667 occurances
-Billie Eilish 	 - 	 618 occurances
-Pop Smoke 	 - 	 604 occurances
-Ariana Grande 	 - 	 600 occurances
+Justin Bieber 	 - 	 792 occurances
+Juice WRLD 	 - 	 677 occurances
+Billie Eilish 	 - 	 660 occurances
+Ariana Grande 	 - 	 630 occurances
+Pop Smoke 	 - 	 628 occurances
 __________________________________________________________________________
 
 [Top 5 Songs]
 
-Falling 	 - 	 248 occurances
-Levitating (feat. DaBaby) 	 - 	 134 occurances
-Blinding Lights 	 - 	 134 occurances
-The Business 	 - 	 134 occurances
-DÁKITI 	 - 	 134 occurances
+Falling 	 - 	 254 occurances
+Levitating (feat. DaBaby) 	 - 	 144 occurances
+Dynamite 	 - 	 144 occurances
+Blinding Lights 	 - 	 144 occurances
+DÁKITI 	 - 	 144 occurances
 ```
 ___
 
