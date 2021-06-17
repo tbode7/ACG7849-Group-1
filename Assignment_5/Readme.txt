@@ -7,7 +7,7 @@ To-do list:
 
 Cluster the business sections (/blue/acg7849/share/BS) using Doc2Vec (50 clusters) in two ways:
 
-(TEST)  Using a counter as the ‘tag’ (as in 5.1.5)
+(TEST - 1000)  Using a counter as the ‘tag’ (as in 5.1.5)
 
 (  )  Using a counter as the ‘tag’, and the industry code as an additional tag (yield TaggedDocument(words=file_tokens, tags=[i, SIC]) where SIC is a string holding the tag (for example ‘1740’)
 
