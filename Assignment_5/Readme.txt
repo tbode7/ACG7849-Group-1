@@ -6,7 +6,9 @@ HL-2: ended w/ initial clustering attempts with in-class codes;
 To-do list: 
 
 Cluster the business sections (/blue/acg7849/share/BS) using Doc2Vec (50 clusters) in two ways:
-(  )  Using a counter as the ‘tag’ (as in 5.1.5)
+
+(TEST)  Using a counter as the ‘tag’ (as in 5.1.5)
+
 (  )  Using a counter as the ‘tag’, and the industry code as an additional tag (yield TaggedDocument(words=file_tokens, tags=[i, SIC]) where SIC is a string holding the tag (for example ‘1740’)
 
 (  )  Extract the 4-digit SIC industry code from the annual report header (STANDARD INDUSTRIAL CLASSIFICATION).
@@ -21,3 +23,6 @@ Cluster the business sections (/blue/acg7849/share/BS) using Doc2Vec (50 cluster
 
 (The performance of each firm is provided on Canvas files, folder assignment 5, file performance.csv. This file has the CIK, year and performance.)
 (Not all BS files are included in performance.csv. You should still include such firms in the clustering, but not in the calculation of the standard deviation. (So these firms will not influence the evaluation which method is better).)
+
+
+DONE = no further changes needed;  TEST = tested on small scale of data
