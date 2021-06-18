@@ -17,12 +17,16 @@ Evaluate whether adding the industry code as an additional tag improves the clus
 
 (DONE)  filings for the year 2019 only, and BS files that are longer than 1000 characters. 
 
-(  )  Calculate the standard deviation of performance for each cluster. 2 standard deviations for each cluster (one for each approach, with the extra SIC tag vs not adding the extra SIC tag). 
+(  )  Calculate the standard deviation of performance for each cluster. -with the extra SIC tag
+(TEST - 200)  Calculate the standard deviation of performance for each cluster. -not adding the extra SIC tag 
 
 (  )  Use a t-test to test for a difference between the two sets of 50 standard deviations.
 
 (The performance of each firm is provided on Canvas files, folder assignment 5, file performance.csv. This file has the CIK, year and performance.)
 (Not all BS files are included in performance.csv. You should still include such firms in the clustering, but not in the calculation of the standard deviation. (So these firms will not influence the evaluation which method is better).)
+
+
+
 
 Expected final output: csv for 50 clusters +2 kinds of SDofP for each. Then a conclusion on whether adding SIC makes clustering better.
 
