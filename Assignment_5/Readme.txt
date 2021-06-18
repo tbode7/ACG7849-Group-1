@@ -5,7 +5,7 @@ HL-2: ended w/ initial clustering attempts with in-class codes;
 
 To-do list: 
 
-(DONE - allfiles {original '10Ks'})  Extract the 4-digit SIC industry code from the annual report header (STANDARD INDUSTRIAL CLASSIFICATION).
+(DONE - {original '10Ks'})  Extract the 4-digit SIC industry code from the annual report header (STANDARD INDUSTRIAL CLASSIFICATION).
 
 (DONE)  filings for the year 2019 only, and BS files that are longer than 1000 characters. 
 
